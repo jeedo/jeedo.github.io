@@ -28,7 +28,7 @@ url: "http://blog.gedesuparsa.com" # the base hostname & protocol for your site,
 
 author: Gede Suparsa
 
-# Mastodon instances
+remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
