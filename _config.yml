@@ -22,9 +22,9 @@ title: Gede's Site
 email: gede.suparsa@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal sight for blogs and other notes that can't fit 
-  in a short-form post. Developer, team-leader, tinkerer, cook and love of Eurovision.
+  in a short-form post. Developer, team-leader, tinkerer, cook and lover of Eurovision.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://blog.gedesuparsa.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Mastodon instances
 minima:
