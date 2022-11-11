@@ -5,7 +5,7 @@ date:   2022-11-11 11:27:14 +0100
 categories: jekyll update
 ---
 
-Why thankyou for welcoming here! - gonna leave there here so I kno what do do next time :) 
+Why thank you for welcoming here! - gonna leave there here so I know what do do next time :) 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
