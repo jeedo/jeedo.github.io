@@ -28,6 +28,8 @@ url: "http://blog.gedesuparsa.com" # the base hostname & protocol for your site,
 
 author: Gede Suparsa
 
+remote_theme: jekyll/minima
+
 minima:
   skin: dark
   social_links:
